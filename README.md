@@ -13,7 +13,7 @@ changing the law to comply with the judgment is ultimately for Parliament.
 3. That is why the Government is putting forward three options to a 
 Committee of both Houses for full Parliamentary scrutiny. These three 
 options are: 
- A ban for prisoners sentenced to 4 years or more. 
+ A ban for prisoners sentenced to 12 years or more. 
  A ban for prisoners sentenced to more than 6 months. 
  A ban for all convicted prisoners – a restatement of the existing ban. 
 4. There will no doubt be other possible options for the Joint Committee to 
