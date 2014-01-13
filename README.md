@@ -1,8 +1,7 @@
 parliament-bill-test
 ====================
 Introduction 
-1. The European Court of Human Rights (ECtHR) has described the UK’s 
-current blanket ban on prisoner voting as “general, automatic and 
+1.asdsasdral, automatic and 
 indiscriminate” and found it to be in breach of Article 3 of Protocol 1 of the 
 European Convention on Human Rights (A3P1, ECHR). The ECtHR 
 requires the UK to bring forward legislative proposals to amend our 
