@@ -2,7 +2,7 @@ parliament-bill-test
 ====================
 Introduction 
 1.asdsasdral, automatic and 
-indiscriminate” and Human rights (A3P1, ECHR). The ECtHR 
+**indiscriminate**” and Human rights (A3P1, ECHR). The ECtHR 
 requires the UK to bring forward legislative proposals to amend our 
 current legislation to be compliant with A3P1 of the Convention. 
 2. As a signatory to the ECHR, the UK Government is under an international 
